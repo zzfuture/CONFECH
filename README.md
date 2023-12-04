@@ -4,10 +4,6 @@ Reto que busca crear una interfaz de usuario que permita ingresar los votos por 
 
 Finalmente se muestra el resultado de la votacion indicando la cantidad de universidades que aceptan, que rechazan y en las que hubo empate entre esas dos opciones.
 
-
-
 ```csharp
 
 ```
-
-
